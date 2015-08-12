@@ -1,2 +1,2 @@
 # steeping
-concept for a coming soon page
+Comming soon page for the Def-t shop
